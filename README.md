@@ -9,7 +9,7 @@
 
 - 🚀 &nbsp;I am currently learning Full Stack Development at [Generation Brasil](https://brazil.generation.org/)'s bootcamp.
 
-- 📚 &nbsp; <b>Studying:</b> Java, Spring Boot e Angular. 
+- 📚 &nbsp; <b>Studying:</b> Java, Spring Boot, HTML 5, CSS and Angular. 
 
   
 
