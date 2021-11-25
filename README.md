@@ -7,9 +7,9 @@
 ### :alien: ​About me
 - 💻  I am starting my career as a developer
 
-- 🚀 &nbsp;I am currently learning Full Stack Development at [Generation Brasil](https://brazil.generation.org/)'s bootcamp.
+- 🚀 &nbsp;I'm a BackEnd Developer Intern at Monkey Exchange.
 
-- 📚 &nbsp; <b>Studying:</b> Java, Spring Boot, HTML 5, CSS and Angular. 
+- 📚 &nbsp; <b>Studying and working with:</b> Java, Spring Boot, and MySQL. 
 
   
 
