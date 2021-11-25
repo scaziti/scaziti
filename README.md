@@ -7,7 +7,7 @@
 ### :alien: ​About me
 - 💻  I am starting my career as a developer
 
-- 🚀 &nbsp;I'm a BackEnd Developer Intern at Monkey Exchange.
+- 🚀 &nbsp;I'm a Backend Developer Intern at Monkey Exchange.
 
 - 📚 &nbsp; <b>Studying and working with:</b> Java, Spring Boot, and MySQL. 
 
